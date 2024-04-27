@@ -37,6 +37,6 @@ E-mail: support@nyxrobot.site
 rablonkk' (Desenvolvedor de Projeto)</br>
 E-mail: rablonkk@proton.me</br>
 Discord: [@rablonkk](https://discord.com/users/523783344979443712)</br>
-Github: [shynozx'](https://github.com/shynozx)
+Github: [@rablonkk](https://github.com/shynozx)
 
 [![Presença do Discord](https://lanyard.cnrad.dev/api/523783344979443712)](https://discord.com/users/523783344979443712)
