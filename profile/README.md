@@ -14,15 +14,15 @@ Nyxro suporta músicas provenientes do YouTube e SoundCloud.
 ### Design ergonômico.
 - Exemplo 1:
 
-![Captura de tela](https://cdn.discordapp.com/attachments/1152444974202368050/1211513081214013501/2.png?ex=6600ed7b&is=65ee787b&hm=2c6eb2f8f7cead617327f45ee03f98d5bf10023b4a801c9e33173ce5a03b4363&)
+![Captura de tela](https://media.discordapp.net/attachments/1152444974202368050/1211512630800547850/1.png?ex=662e68cf&is=662d174f&hm=030a719a8cb969c0d7d2360e330795950ae300cbbd3eba94354b7f8ba52cfcbe&=&format=webp&quality=lossless&width=550&height=199)
 
 - Exemplo 2:
 
-![Captura de tela](https://cdn.discordapp.com/attachments/1152444974202368050/1211513081214013501/2.png?ex=6600ed7b&is=65ee787b&hm=2c6eb2f8f7cead617327f45ee03f98d5bf10023b4a801c9e33173ce5a03b4363&)
+![Captura de tela](https://media.discordapp.net/attachments/1152444974202368050/1211513081214013501/2.png?ex=662e693b&is=662d17bb&hm=3a439744bf6a6e78636b47dcf816f66d340c349b8054012bfedeb14e8353a711&=&format=webp&quality=lossless)
 
 - Exemplo 3:
 
-![Captura de tela](https://cdn.discordapp.com/attachments/1152444974202368050/1211513676499263498/3.png?ex=6600ee09&is=65ee7909&hm=dadab76f4748651c64128d3b77d77e591644f8afeca597aab0b6bf31dab06ecc&)
+![Captura de tela](https://media.discordapp.net/attachments/1152444974202368050/1211513676499263498/3.png?ex=662e69c9&is=662d1849&hm=b6dda916a9c244d88f65476e8ee697d8f88f5757d328dcb007901e1c4c2349b8&=&format=webp&quality=lossless)
 
 ### Termos de serviço & uso.
 Recomendamos que você leia nossos termos de serviço & uso. O Projeto Nyxro respeita a propriedade intelectual. E encorajamos nossos usuários a fazerem o mesmo.
