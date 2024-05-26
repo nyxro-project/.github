@@ -14,15 +14,15 @@ Nyxro suporta músicas provenientes do YouTube e SoundCloud.
 ### Design ergonômico.
 - Exemplo 1:
 
-![Captura de tela](https://media.discordapp.net/attachments/1152444974202368050/1211512630800547850/1.png?ex=662e68cf&is=662d174f&hm=030a719a8cb969c0d7d2360e330795950ae300cbbd3eba94354b7f8ba52cfcbe&=&format=webp&quality=lossless&width=550&height=199)
+![Captura de tela](https://i.imgur.com/sRriQBo.png)
 
 - Exemplo 2:
 
-![Captura de tela](https://media.discordapp.net/attachments/1152444974202368050/1211513081214013501/2.png?ex=662e693b&is=662d17bb&hm=3a439744bf6a6e78636b47dcf816f66d340c349b8054012bfedeb14e8353a711&=&format=webp&quality=lossless)
+![Captura de tela](https://i.imgur.com/tURJUqs.png)
 
 - Exemplo 3:
 
-![Captura de tela](https://media.discordapp.net/attachments/1152444974202368050/1211513676499263498/3.png?ex=662e69c9&is=662d1849&hm=b6dda916a9c244d88f65476e8ee697d8f88f5757d328dcb007901e1c4c2349b8&=&format=webp&quality=lossless)
+![Captura de tela](https://i.imgur.com/L8azpHF.png)
 
 ### Termos de serviço & uso.
 Recomendamos que você leia nossos termos de serviço & uso. O Projeto Nyxro respeita a propriedade intelectual. E encorajamos nossos usuários a fazerem o mesmo.
@@ -37,6 +37,6 @@ E-mail: support@nyxrobot.site
 rablonkk' (Desenvolvedor de Projeto)</br>
 E-mail: rablonkk@proton.me</br>
 Discord: [@rablonkk](https://discord.com/users/523783344979443712)</br>
-Github: [@rablonkk](https://github.com/shynozx)
+Github: [@rablonkk](https://github.com/rablonkk)
 
 [![Presença do Discord](https://lanyard.cnrad.dev/api/523783344979443712)](https://discord.com/users/523783344979443712)
