@@ -1,5 +1,5 @@
 # Quem somos nós?
-Nyxro  é um incrível projeto de bot musical que foi criado com o objetivo de oferecer aos usuários uma experiência musical sem precedentes. Com a possibilidade de reproduzir músicas do YouTube e SoundCloud, o Nyxro se torna uma ferramenta indispensável para quem quer ouvir as músicas que adora sem precisar alternar entre diferentes plataformas.
+O Nyxro é um incrível bot de música que foi criado com o objetivo de oferecer aos usuários uma experiência musical sem precedentes. Com a possibilidade de reproduzir músicas do YouTube e SoundCloud, o Nyxro se torna uma ferramenta indispensável para quem quer ouvir as músicas que adora sem precisar alternar entre diferentes plataformas.
 
 Com uma interface amigável e intuitiva, o Nyxro é fácil de usar e oferece uma ampla gama de recursos, como playlists personalizadas, pesquisa avançada de músicas e controles de reprodução. Além disso, o bot é capaz de executar uma variedade de comandos para personalizar a experiência musical, incluindo a capacidade de pular faixas, retroceder faixas e até mesmo pesquisar letras de músicas.
 
